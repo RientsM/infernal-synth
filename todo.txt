@@ -1,4 +1,6 @@
 * for each release 
+test RientsM
+
 - x create version branch
 - x update version number in code
 - x update version number in cmake unless only bugfix release
